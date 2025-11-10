@@ -1,0 +1,28 @@
+{
+  "name": "social-insight-scraper",
+  "version": "1.0.0",
+  "description": "Collects engagement metrics and metadata from YouTube, Instagram, and TikTok.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:sample": "node src/index.js ./data/input.sample.json ./data/output.sample.json",
+    "test": "node --test"
+  },
+  "keywords": [
+    "scraper",
+    "social-media",
+    "youtube",
+    "instagram",
+    "tiktok",
+    "engagement",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
