@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://www.instagram.com/p/C4ixfyPOwvP/",
+    "data": {
+      "url": "https://www.instagram.com/p/C4ixfyPOwvP/",
+      "type": "post",
+      "referenceId": "C4ixfyPOwvP",
+      "platform": "instagram",
+      "result": {
+        "type": "engagement",
+        "likes": 2500,
+        "comments": 180,
+        "engagements": 2680,
+        "screenName": "Samsung Middle East",
+        "username": "@samsung_me",
+        "title": "Samsung Galaxy S24 Launch",
+        "description": "Experience the future of smartphones with the Samsung Galaxy S24, now available with special offers.",
+        "publishedDate": "2025-03-28T14:49:45.182Z"
+      }
+    }
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "data": {
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "type": "video",
+      "referenceId": "dQw4w9WgXcQ",
+      "platform": "youtube",
+      "result": {
+        "type": "engagement",
+        "likes": 3400000,
+        "comments": 215000,
+        "engagements": 3615000,
+        "screenName": "Rick Astley",
+        "username": "@rickastleyofficial",
+        "title": "Never Gonna Give You Up",
+        "description": "The official video for Never Gonna Give You Up by Rick Astley.",
+        "publishedDate": "2009-10-25T18:30:00.000Z"
+      }
+    }
+  },
+  {
+    "url": "https://www.tiktok.com/@charlidamelio/video/1234567890",
+    "data": {
+      "url": "https://www.tiktok.com/@charlidamelio/video/1234567890",
+      "type": "video",
+      "referenceId": "1234567890",
+      "platform": "tiktok",
+      "result": {
+        "type": "engagement",
+        "likes": 1200000,
+        "comments": 89000,
+        "engagements": 1289000,
+        "screenName": "Charli D'Amelio",
+        "username": "@charlidamelio",
+        "title": "Dance Challenge",
+        "description": "Charli D'Amelio takes part in the latest TikTok dance challenge.",
+        "publishedDate": "2025-03-20T10:30:00.000Z"
+      }
+    }
+  }
+]
