@@ -1,0 +1,25 @@
+{
+  "concurrency": 5,
+  "retry": {
+    "maxAttempts": 3,
+    "baseDelayMs": 500,
+    "factor": 2
+  },
+  "logging": {
+    "level": "info"
+  },
+  "platforms": {
+    "youtube": {
+      "enabled": true,
+      "maxBatchSize": 100
+    },
+    "instagram": {
+      "enabled": true,
+      "maxBatchSize": 100
+    },
+    "tiktok": {
+      "enabled": true,
+      "maxBatchSize": 100
+    }
+  }
+}
